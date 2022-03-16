@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi Fellow CODERS!👋 I am Tushar Mirche
+### And i'm not that person what my username says
 
-<!--
-**notcoding-tushar/notcoding-tushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Flutter
+- 🌱 learning how to use Github properly
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 looking for help with Blockchain Development
+- 💬 Ask me about *The Great Gatsby*
+- 📫 Mail me at: tusharkumarmirche@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Until 2010,carrier pigeons were faster than the internet
