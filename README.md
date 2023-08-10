@@ -3,9 +3,9 @@
 
 
 - 🔭 I’m currently working on Flutter
-- 🌱 learning how to use ~Github properly~ Solidity
+- 🌱 learning how to use Java
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 looking for help with Blockchain Projects
+- 🤔 looking for help with Full Stack Projects
 - 💬 Ask me about *The Great Gatsby*
 - 📫 Mail me at: tusharkumarmirche@gmail.com 
 - 😄 Pronouns: He/Him
